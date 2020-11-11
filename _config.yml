@@ -1,8 +1,8 @@
 # Site settings
-title: "Elankton"
-author: "Ela"
+title: "DeskIam"
+author: "Eella"
 hcprefix: "hx-"
-hcurl: "http://localhost:4000/"
+hcurl: "https://deskiam.github.io/"
 
 url: "http://localhost:4000"  # http://localhost:4000 /
 
