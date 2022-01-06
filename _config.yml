@@ -4,7 +4,7 @@ author: "Eella"
 hcprefix: "hx-"
 hcurl: "https://deskiam.github.io/"
 
-url: "http://localhost:4000"  # http://localhost:4000 /
+url: "http://localhost:4000"  # 
 
 # verification
 bing: "F1Tsahz"
